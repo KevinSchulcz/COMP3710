@@ -656,8 +656,8 @@ PLOT
 263
 326
 Trip Times
+NIL
 Time (ticks)
-Frequency
 0.0
 10.0
 0.0
